@@ -86,5 +86,27 @@ namespace DivisibleListClient.Test
 			Assert.IsTrue(primes.Contains(31));
 			Assert.IsFalse(primes.Contains(10));
 		}
+
+		[TestMethod]
+		public void TestLargeRange()
+		{
+			int count = 0;
+			bool passed10000 = false;
+
+			var list = new DivisibleList(1, Int32.MaxValue);
+
+			foreach (DivisibleResult item in list)
+			{
+				count++;
+
+				if (count > 10000)
+				{
+					passed10000 = true;
+					break;
+				}
+			}
+
+			Assert.IsTrue(passed10000);
+		}
 	}
 }
