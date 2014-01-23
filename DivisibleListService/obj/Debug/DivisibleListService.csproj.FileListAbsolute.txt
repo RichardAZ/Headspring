@@ -1,0 +1,5 @@
+C:\develop\misc\Headspring1\DivisibleListService\obj\Debug\DivisibleListService.csprojResolveAssemblyReference.cache
+C:\develop\misc\Headspring1\DivisibleListService\bin\Debug\DivisibleListService.dll
+C:\develop\misc\Headspring1\DivisibleListService\bin\Debug\DivisibleListService.pdb
+C:\develop\misc\Headspring1\DivisibleListService\obj\Debug\DivisibleListService.dll
+C:\develop\misc\Headspring1\DivisibleListService\obj\Debug\DivisibleListService.pdb

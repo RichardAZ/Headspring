@@ -1,0 +1,11 @@
+C:\develop\misc\Headspring1\Headspring1\obj\Debug\DivisibleListClient.csprojResolveAssemblyReference.cache
+C:\develop\misc\Headspring1\Headspring1\bin\Debug\DivisibleList.exe.config
+C:\develop\misc\Headspring1\Headspring1\bin\Debug\DivisibleList.exe
+C:\develop\misc\Headspring1\Headspring1\bin\Debug\DivisibleList.pdb
+C:\develop\misc\Headspring1\Headspring1\bin\Debug\DivisibleListService.dll
+C:\develop\misc\Headspring1\Headspring1\bin\Debug\DivisibleListService.pdb
+C:\develop\misc\Headspring1\Headspring1\obj\Debug\DivisibleList.exe
+C:\develop\misc\Headspring1\Headspring1\obj\Debug\DivisibleList.pdb
+C:\develop\misc\Headspring1\DivisibleListClient\bin\Debug\DivisibleList.exe.config
+C:\develop\misc\Headspring1\DivisibleListClient\obj\Debug\DivisibleList.exe
+C:\develop\misc\Headspring1\DivisibleListClient\obj\Debug\DivisibleList.pdb

@@ -1,0 +1,6 @@
+C:\develop\misc\Headspring1\Headspring1\bin\Debug\Headspring1.exe.config
+C:\develop\misc\Headspring1\Headspring1\bin\Debug\Headspring1.exe
+C:\develop\misc\Headspring1\Headspring1\bin\Debug\Headspring1.pdb
+C:\develop\misc\Headspring1\Headspring1\obj\Debug\Headspring1.csprojResolveAssemblyReference.cache
+C:\develop\misc\Headspring1\Headspring1\obj\Debug\Headspring1.exe
+C:\develop\misc\Headspring1\Headspring1\obj\Debug\Headspring1.pdb

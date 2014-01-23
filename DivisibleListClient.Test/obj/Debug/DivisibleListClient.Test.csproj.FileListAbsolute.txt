@@ -1,0 +1,7 @@
+C:\develop\misc\Headspring1\DivisibleListClient.Test\obj\Debug\DivisibleListClient.Test.csprojResolveAssemblyReference.cache
+C:\develop\misc\Headspring1\DivisibleListClient.Test\bin\Debug\DivisibleListClient.Test.dll
+C:\develop\misc\Headspring1\DivisibleListClient.Test\bin\Debug\DivisibleListClient.Test.pdb
+C:\develop\misc\Headspring1\DivisibleListClient.Test\bin\Debug\DivisibleListService.dll
+C:\develop\misc\Headspring1\DivisibleListClient.Test\bin\Debug\DivisibleListService.pdb
+C:\develop\misc\Headspring1\DivisibleListClient.Test\obj\Debug\DivisibleListClient.Test.dll
+C:\develop\misc\Headspring1\DivisibleListClient.Test\obj\Debug\DivisibleListClient.Test.pdb
